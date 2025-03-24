@@ -25,3 +25,4 @@ Laksegate gruppen er gruppen der arbejder med laks, lever af laks, og spiser lak
 * Pull the changes: `git pull origin main` 
 
 
+small change
