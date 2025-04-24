@@ -18,4 +18,4 @@ Station codes are:
 HCAB: HC Andersens Boulevard, Copenhagen
 HCØ: H.C. Ørsteds Instituttet, Copenhagen
 JAGT: Jagtvej, Copenhagen
-HVID: Hvidovre
+HVID: Fjeldstedvej, Hvidovre
