@@ -16,6 +16,7 @@ Laksegate gruppen er gruppen der arbejder med laks, lever af laks, og spiser lak
 * Save changes with message: `git commit -m "message"`
 * Create a new branch for changes: `git checkout -b test-branch`
 * Push changes to location: `git push origin test-branch`
+* If changes have been pushed from elsewhere run: `git pull origin main --rebase`
 * Once pushed, go the branch and make a pull request
 
 ## Pulling updates from repository
