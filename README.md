@@ -33,6 +33,7 @@ Laksegate gruppen er gruppen der arbejder med laks, lever af laks, og spiser lak
 * Open a terminal
 * Create virtual environment: `python -m venv .venv`
 * Activate virtual environment: `.venv\Scripts\activate`
+* If unauthorised access error: `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
 * Add the virtual environemnt to the `.gitignore` file so it does not end in the great Laksegate repo.
 
 
