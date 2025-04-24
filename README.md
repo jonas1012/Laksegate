@@ -24,3 +24,17 @@ Laksegate gruppen er gruppen der arbejder med laks, lever af laks, og spiser lak
 * Go to main branch: `git checkout main`
 * Check newest updates: `git fetch origin`
 * Pull the changes: `git pull origin main` 
+
+
+# Getting packages 
+
+
+## Setting up virtual environment on own machine
+* Open a terminal
+* Create virtual environment: `python -m venv .venv`
+* Activate virtual environment: `.venv\Scripts\activate`
+
+
+## Acquire the necessary packages
+* After opening virtual envrionment Run: `pip install -r requirements.txt`
+
