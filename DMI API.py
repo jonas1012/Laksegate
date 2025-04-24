@@ -49,11 +49,11 @@ while current_start < end_date:
     current_start = current_end + timedelta(seconds=1)
 
 # Convert datetime and sort
-all_observations['observed'] = pd.to_datetime(all_observations['observed'], format="%Y-%m-%dT%H:%M:%S.%fZ", utc=True)
+all_observations['observed'] = pd.to_datetime(all_observations['observed'], format="%Y-%m-%dT%H:%M:%SZ", utc=True)
 all_observations = all_observations.sort_values(by='observed')
 
 # Preview
 print(all_observations.head())
 
-# Export to Excel
-all_observations.to_excel("visibility_observations (2023).xlsx", index=False)
+# Export to Excel (Remove hashtag in order to save the observations in excel file)
+#all_observations.to_excel("visibility_observations (2023).xlsx", index=False)
