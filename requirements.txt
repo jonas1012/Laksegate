@@ -25,4 +25,4 @@ tzdata==2025.2
 xgboost==3.0.0
 missingno==0.5.2
 statsmodels==0.14.4
-optuna == 3.1.0
+optuna == 4.3.0
