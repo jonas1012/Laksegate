@@ -40,3 +40,5 @@ Laksegate gruppen er gruppen der arbejder med laks, lever af laks, og spiser lak
 ## Acquire the necessary packages
 * After opening virtual envrionment Run: `pip install -r requirements.txt`
 
+## Enjoy the possibilities 
+* You are now correctly connected to the git. Enjoy working in this repository
