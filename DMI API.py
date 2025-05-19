@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 # Settings
 base_url = "https://dmigw.govcloud.dk/v2/metObs/collections/observation/items"
-api_key = "4e70e3ca-9b2c-4e37-acc3-83538c53080b"
+api_key = "API_KEY"
 station_id = "06180"
 parameter_id = "visibility"
 
